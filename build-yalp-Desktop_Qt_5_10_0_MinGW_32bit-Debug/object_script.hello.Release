@@ -1,0 +1,13 @@
+INPUT(
+./release/main.o
+./release/mainwindow.o
+./release/room.o
+./release/nurse.o
+./release/patient.o
+./release/employee.o
+./release/doctor.o
+./release/appointment.o
+./release/person.o
+./release/it.o
+./release/moc_mainwindow.o
+);

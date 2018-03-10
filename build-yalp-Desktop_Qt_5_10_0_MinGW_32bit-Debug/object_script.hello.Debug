@@ -1,0 +1,13 @@
+INPUT(
+./debug/main.o
+./debug/mainwindow.o
+./debug/room.o
+./debug/nurse.o
+./debug/patient.o
+./debug/employee.o
+./debug/doctor.o
+./debug/appointment.o
+./debug/person.o
+./debug/it.o
+./debug/moc_mainwindow.o
+);
